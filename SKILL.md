@@ -2,7 +2,7 @@
 name: trelli
 description: Manage Trello boards, lists, cards, comments, and checklists using the trelli CLI.
 homepage: https://developer.atlassian.com/cloud/trello/rest/
-metadata: {"clawdbot":{"emoji":"📋","requires":{"bins":["trelli"],"env":["TRELLO_API_KEY","TRELLO_TOKEN"]}}}
+metadata: {"codex":{"emoji":"📋","requires":{"bins":["trelli"],"env":["TRELLO_API_KEY","TRELLO_TOKEN"]}}}
 ---
 
 # trelli Skill
